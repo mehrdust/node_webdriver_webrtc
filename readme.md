@@ -4,8 +4,12 @@
 
 <h2>Running the test</h2>
 <ol>
-    <li># npm install</li>
-    <li># node webrtc.js</li>
+    <li>
+	<pre># npm install</pre>
+    </li>
+    <li>
+	<pre># node webrtc.js</pre>
+    </li>
 </ol>
     
 
