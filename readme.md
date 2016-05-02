@@ -13,3 +13,5 @@
 </ol>
     
 
+<a href="http://code.tutsplus.com/tutorials/an-introduction-to-webdriver-using-the-javascript-bindings--cms-21855" > resource</a>
+
